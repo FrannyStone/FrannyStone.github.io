@@ -1,0 +1,15 @@
+body {
+    background-color: #51C7C7;
+}
+
+h1 {
+    color: #380B0B;
+	font-family: verdana, arial, sans-serif;
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+}
+
+p {
+   color: #38290B;
+}
