@@ -24,11 +24,6 @@ p {
    color: #609DE5;
 }
 
-ul li {
-	padding-left: 0;
-	margin-left: 0;
-}
-
 nav ul li {
 	display: inline;
 }
