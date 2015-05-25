@@ -1,5 +1,6 @@
 body {
-    background-color: #060B10;
+    background: repeating-linear-gradient(#060B10, #261758);
+	height: 100vh;
 }
 
 h1 {
@@ -24,6 +25,9 @@ p {
    color: #609DE5;
 }
 
+ul li{
+	color: #fff
+}
 nav ul li {
 	display: inline;
 }
@@ -48,4 +52,11 @@ nav ul li a {
 
 nav ul li a:hover {
 	background-color: #857DB1;
+}
+
+img{
+	margin-left: 140px;
+	padding-left: 50px;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
 }
